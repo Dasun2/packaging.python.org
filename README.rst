@@ -16,7 +16,7 @@ Everyone interacting in the Python Packaging User Guide project's codebases,
 issue trackers, chat rooms, and mailing lists are expected to follow the
 `PSF Code of Conduct`_.
 
-.. _PSF Code of Conduct: https://github.com/pypa/.github/blob/main/CODE_OF_CONDUCT.md
+
 
 Contributing
 ------------
