@@ -1,4 +1,4 @@
-Python Packaging User Guide
+Python Packaging Use
 ===========================
 
 http://packaging.python.org
